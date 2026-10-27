@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+
+# Rendered outputs
+/runs/
+/results/
+
+# Local frame sets; the bundled example under examples/ is kept
+/data/images/
+/data/*.npy
+!/data/README.md

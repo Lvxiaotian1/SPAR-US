@@ -1,0 +1,17 @@
+{
+  "near": 0.0,
+  "far": 121.4,
+  "sw": 0.173752066116,
+  "sh": 0.549321266968,
+  "seed": 3407,
+  "steps_init": 300,
+  "steps_stage": 300,
+  "partial_views": 6,
+  "global_every": 10,
+  "lr_field": 0.001,
+  "lr_pose": 0.0001,
+  "field_step": 20,
+  "pose_step": 100,
+  "field_decay": 0.9954,
+  "pose_decay": 0.9
+}

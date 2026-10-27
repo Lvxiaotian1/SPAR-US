@@ -1,0 +1,11 @@
+# Normalise text files to LF in the repository, keep binaries untouched.
+* text=auto eol=lf
+
+*.py     text eol=lf
+*.md     text eol=lf
+*.json   text eol=lf
+*.txt    text eol=lf
+
+*.png    binary
+*.pt     binary
+*.npy    binary
